@@ -1,6 +1,6 @@
-# Targets 
+# Targets 2D
 
-2D
+
 
 Bow and Arrow 2D game developed in JavaFX.
 
